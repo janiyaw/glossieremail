@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
+    <style type="text/css">
+      @media screen and (max-width:630px) {
+        
+      }
+      body {
+        font-family: Apercu Pro,Calibri,sans-serif;;
+      }
+    </style>
+  </head>
+  <body>
+    <!--MAIN CONTAINER-->
+    <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="padding: 40px;">
+      <tr>
+        <td>
+          <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+      <tr>
+        <td align="center">
+          <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d4b27c1a12f744d59ccb1cb/original.png?1565206465" alt="Glossier logo" width="4%">
+        </td>
+            </tr>
+            <tr>
+              <td>
+  
+                <ins>
+                  <a href="https://www.glossier.com/about" target="_blank">
+                <h1 style="text-align: center;">Hi, we're Glossier!</h1>
+                  </a>
+                </ins>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.glossier.com/products" target="_blank">
+                <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d4b2d74af2cae49aecba65e/original.png?1565207924" alt="Glossier banner" width="100%">
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td style="text-align: center;">
+                We make products inspired by the people who use them. That’s skincare, makeup, bodycare, and fragrance optimized for real life, perfected to be worthy of your bathroom shelf. We believe in efficacious formulas, thoughtful design, and enabling conversation (which is where it all starts).
+                <br>
+                <br>
+                <input type="button" value="SHOW ME MORE" style="color: white; background-color: #0924fa; border-color: #0924fa; padding: 10px;">
+              </td>
+            </tr>
+          </table>
+          <br>
+          <!--LOVED BY EVERYONE TABLE-->
+          <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="background-color: #f6f6f6;">
+      <tr>
+        <td>
+          <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d4b3230e115227001172154/original.gif?1565209136" width="25%">
+          <br>
+          Boy Brow
+          <br>
+          grooming pomade
+        </td>
+        <td>
+          <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d4b3230d5b68240dc8c9845/original.gif?1565209136" width="25%">
+        </td>
+        <td>
+          <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d4b323003bd87349ace962d/original.gif?1565209136" width="25%">
+        </td>
+        <!--END OF LOVED BY EVERYONE CONTAINER-->
+        </td>
+            </tr>
+          </table>
+    <br>
+    <!--GIVE US A TRY-->
+          <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="background-color: #fcf7f8;">
+      <tr>
+        <td align="center">
+          <h1>
+            Give us a try.
+          </h1>
+          We offer free returns and exchanges on skincare and makeup within 30 days.
+          <br>
+          <a href="https://www.glossier.com/help" target="_blank">
+          <input type="button" value="LEARN MORE">
+          </a>
+            </td>
+            </tr>
+    </table>
+    <br>
+    <!--MEET THE GTEAM-->
+          <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="background-color: #fcf7f8;">
+      <tr>
+        <td align="center">
+          <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d4b378c3f884836dfc493b4/original.png?1565210508" alt="Chatbox icon">
+          <br>
+          <h3>Meet the gTEAM!</h3>
+          <p>Think of our gTEAM editors as your go-to guides for all things Glossier. From product recommendations to questions about your order, and how you can get free returns and a puppy (kidding)—we’re here to help.</p>
+          <br>
+          Let’s chat: <strong><a href="mailto: gTEAM@glossier.com">
+          TEAM@glossier.com
+          </strong>
+          </a>
+        </td>
+            </tr>
+    </table>
+    <br>
+     <!--BEAUTY INSPIRED BY REAL LIFE-->
+          <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="background-color: #fcf7f8;">
+      <tr>
+        <td align="center">
+          <h3>Beauty inspired by real life
+            (and real people).</h3>
+          <a href="https://www.glossier.com/feeling-like" target="_blank">
+          <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d83a3d7125ebf78ce917c37/original.gif?1568908247" alt="GIF of real people" width="100%">
+          </a>
+          <p>Our community is a constant source of inspiration. Our latest brand campaign focuses on six people who have their own unique stories and connections to Glossier.
+          </p>
+          <br>
+          <input type="button" value="MEET THEM" style="color: white; background-color:#0924fa; border-color:#0924fa;">
+        </td>
+            </tr>
+    </table>
+    <br>
+    <!--BEAUTY INSPIRED BY REAL LIFE-->
+          <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="background-color: #f6f6f6;">
+      <tr>
+        <td align="center">
+ <a href="https://www.glossier.com/locations" target="_blank">
+          <img src="https://mi.glossier-assets.com/p/rp/bf9585a49d4bd97b.png?mi_u=" alt="" width="100%">
+   </a>
+        </td>
+            </tr>
+    </table>
+    <br>
+    <!--MEANWHILE ON INSTAGRAM-->
+          <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="background-color: #fcf7f8;">
+      <tr>
+        <td align="center">
+          <h3>Meanwhile on Instagram.</h3>
+          <a href="https://www.instagram.com/p/CAaOv7ap8ut/?mi_u=&utm_medium=email&utm_source=glossier&utm_campaign=Email&utm_content=baa4fbb4-86d6-4a8e-beeb-cbc5a275efe4&utm_term=" target="_blank">
+          <img src="https://mi.glossier-assets.com/p/rp/61cdbb4a28356bd3.png?mi_u=">
+          </a>
+          <a href="https://www.instagram.com/p/CAYkfpbhCqC/?mi_u=&utm_medium=email&utm_source=glossier&utm_campaign=Email&utm_content=baa4fbb4-86d6-4a8e-beeb-cbc5a275efe4&utm_term=" target="_blank">
+          <img src="https://mi.glossier-assets.com/p/rp/a3efa0ef620b8546.png?mi_u=">
+          </a>
+          <a href="https://www.instagram.com/p/CAVjS65pfNV/?mi_u=&utm_medium=email&utm_source=glossier&utm_campaign=Email&utm_content=baa4fbb4-86d6-4a8e-beeb-cbc5a275efe4&utm_term=" target="_blank">
+          <img src="https://mi.glossier-assets.com/p/rp/84dcf3f10a787c32.png?mi_u=">
+          </a>
+            <a href="" target="_blank">
+          <img src="https://mi.glossier-assets.com/p/rp/0eef11e36231e984.png?mi_u=r">
+          </a>
+          <br>
+          <a href="https://www.instagram.com/glossier/" target="_blank">
+          <input type="button" value="FOLLOW US" style="color: white; background-color: #0924fa; border-color: #0924fa;">
+          </a>
+        </td>
+            </tr>
+    </table>
+    <img src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5d4b27c24c720314d7ac5965/original.png?1565206466">
+    <br>
+    <!--FOOTER-->
+          <table cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="background-color: ;">
+      <tr>
+        <td align="center" style="font-size: 0.5em;">
+          <a href="https://www.glossier.com/products" target="_blank">
+          <img src="https://assets.micpn.com/7685/83a62f90-026b-4d81-a33d-619a380e903c/32103a80-5a11-412e-8153-c3d39aad471a.jpg?mi_u=&mi_country=US&mi_attribute=" alt="" width="100%">
+          </a>
+          <br>
+          No longer want to receive these emails? You can <a href="">unsubscribe here</a>.
+          <br>
+          Glossier 233 Spring Street, Floor 10E New York, NY 10013
+          <br>
+New Street Square London, EC4A 3TW
+          <br>
+          <a href="https://www.glossier.com/" target="_blank">www.glossier.com</a> // <a href="mailto:gteam@glossier.com" target="_blank">gteam@glossier.com</a>
+          <br>
+          <br>
+          For information about how we process data and monitor communications please see our <a href="https://www.glossier.com/privacy-policy" target="_blank">privacy policy</a> and <a href="https://www.glossier.com/terms-of-use" target="_blank">terms of use</a>
+
+        </td>
+            </tr>
+    </table>
+          <!--END OF MAIN CONTAINER-->
+        </td>
+      </tr>
+    </table>
